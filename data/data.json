@@ -1,0 +1,26 @@
+{
+    "accounts": [
+        {
+            "id": "bdc8dac8-c9a1-4730-83cf-1300c174c3b3",
+            "name": "Conta Corrente Principal",
+            "type": "Conta Corrente",
+            "balance": 175.46,
+            "monthly_income": 0.0
+        }
+    ],
+    "categories": [
+        {
+            "id": "73486f2f-40a9-418d-af99-7df0676b5a5f",
+            "name": "Lazer",
+            "type": "Despesa",
+            "monthly_limit": 0.0
+        },
+        {
+            "id": "ad393f06-c6f1-4b31-ada6-85b3c12d8a14",
+            "name": "Cosmeticos",
+            "type": "Despesa",
+            "monthly_limit": 0.0
+        }
+    ],
+    "transactions": []
+}
